@@ -1,0 +1,9 @@
+<Project>
+  <PropertyGroup>
+    <DisableTransitiveProjectReferences>true</DisableTransitiveProjectReferences>
+    <LangVersion>10</LangVersion>
+    <Nullable>enable</Nullable>
+    <WarningsAsErrors>nullable</WarningsAsErrors>
+    <Authors>Yeah69</Authors>
+  </PropertyGroup>
+</Project>
